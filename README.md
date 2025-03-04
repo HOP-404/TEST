@@ -1,13 +1,19 @@
-# TEST 
+# 😗 Installation 💚
+```
+cd
 
-"""
+rm -rf TEST
 
-rm -rf TEST 
+git clone --depth=1 https://gGREEN.py
+```ithub.com/HOP-404/TEST
 
-git clone https://github.com/HOP-404/TEST.git 
+cd TEST
 
-cd TEST 
+python TEST.py
+```
+[Note: This Tools Are Test only my personal user and friend 💖]
 
-python TEST.py 
 
-"""
+
+# ~/ 🥵›  Features:
+- 1. RANDOM CLONE

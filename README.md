@@ -4,8 +4,7 @@ cd
 
 rm -rf TEST
 
-git clone --depth=1 https://gGREEN.py
-```ithub.com/HOP-404/TEST
+git clone --depth=1 https://github.com/HOP-404/TEST
 
 cd TEST
 
